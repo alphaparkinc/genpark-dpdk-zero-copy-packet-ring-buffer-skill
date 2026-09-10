@@ -1,0 +1,17 @@
+{
+  "name": "genpark-dpdk-zero-copy-packet-ring-buffer-skill",
+  "version": "1.0.0",
+  "description": "DPDK-style lockless multi-producer multi-consumer (MPMC) ring buffer (rte_ring) with burst packet enqueuing and dequeuing semantics.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "dpdk",
+    "ring-buffer",
+    "zero-copy",
+    "packet-processing",
+    "high-performance-networking"
+  ],
+  "dependencies": []
+}
